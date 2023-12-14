@@ -17,7 +17,7 @@ sudo apt install git
 ```
 
 ```
- git clone https://github.com/americo/sqlifinder
+ git clone https://github.com/Tugce41/sql_injection_browser.git
 ```
 
 
