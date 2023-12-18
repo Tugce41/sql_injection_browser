@@ -7,7 +7,6 @@
 python3 sqlifinder.py -h
 ```
 
-Bu, araca ilişkin yardımı görüntüleyecektir. İşte desteklediği tüm anahtarlar.
 
 
 <h2>Kurulum</h2>
